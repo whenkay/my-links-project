@@ -22,6 +22,6 @@ A personal link-in-bio page. Mobile first, simple clean design. I want to send p
 - Email (mailto:wendy@purposestudio.com)
 
 ## Nice to have 
-- serif font for name
+- Google font: Fraunces for name
 - Link buttons with icons (use simple flat design)
 - Footer with "Design is Life" 
